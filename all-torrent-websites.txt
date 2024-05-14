@@ -1652,6 +1652,7 @@ nanobits.info
 nasa.gov
 natorrent.com
 natorrente.com
+nexus-tor.com
 ncore.cc
 ncore.hu
 nemesis09.com
